@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <AVFoundation/AVFoundation.h>
+#import "SecondViewController.h"
+#import "RecordViewController.h"
 
-@interface ViewController : UIViewController
-
+@interface ViewController : UIViewController 
 
 @end
 
